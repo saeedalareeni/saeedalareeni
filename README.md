@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://codepen.io/saeed-al-areeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saeed-al-areeni" height="30" width="40" /></a>
 <a href="https://twitter.com/saeed_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saeed_code" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/22368888/saeed-al-areeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/22368888/saeed-al-areeni" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22368888/saeed-al-areeni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/22368888/saeed-al-areeni" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100017496660684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100017496660684" height="30" width="40" /></a>
 </p>
 
